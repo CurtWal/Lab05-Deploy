@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Curtrick Walton",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Young soon to be Entry level Full Stack Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/CurtWal",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "facebook",
+          "url": "https://www.facebook.com/curtrick.walton/",
+          "class": "fab fa-facebook"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myNewProfile.jpg"
     },
     "skills": {
       "icons": [
@@ -29,14 +29,9 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React Js",
+          "class": "devicon-react-plain",
           "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
         },
         {
           "name": "JavaScript",
@@ -44,24 +39,9 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
       ]
     }
