@@ -51,30 +51,34 @@
           {
             "class": "devicon-html5-plain",
             "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "PlaceHolder Project",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Carousel of Coders",
+        "startDate": "2022",
+        "description": "Card style cards, that are animated, and the ability to create your own. ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/carousel/c1.png",
+          "images/portfolio/carousel/c2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/NunuMarie3000/Mighty-Ducks",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
