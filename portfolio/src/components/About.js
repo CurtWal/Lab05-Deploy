@@ -3,6 +3,12 @@ import { Icon } from "@iconify/react";
 import javascriptIcon from "@iconify/icons-logos/javascript";
 import htmlIcon from "@iconify/icons-logos/html-5";
 import cssIcon from "@iconify/icons-logos/css-3";
+import nodeIcon from "@iconify/icons-logos/nodejs";
+import bootIcon from "@iconify/icons-logos/bootstrap"
+import azureIcon from "@iconify/icons-logos/azure";
+import mongoIcon from "@iconify/icons-logos/mongodb";
+import dotnetIcon from "@iconify/icons-logos/dotnet";
+import unityIcon from "@iconify/icons-logos/unity";
 
 class About extends Component {
   render() {
@@ -41,7 +47,27 @@ class About extends Component {
                   <Icon
                     icon={cssIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                  /><Icon
+                  icon={nodeIcon}
+                  style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                /><Icon
+                icon={bootIcon}
+                style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+              /><Icon
+                  icon={dotnetIcon}
+                  style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                /><Icon
+                icon={mongoIcon}
+                style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+              />
+                <Icon
+                icon={azureIcon}
+                style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+              />
+                <Icon
+                icon={unityIcon}
+                style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+              />
                 </span>
               </div>
             </div>

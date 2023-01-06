@@ -18,7 +18,7 @@
           "images/portfolio/yearly-calendar/y1.png",
           "images/portfolio/yearly-calendar/y2.png"
         ],
-        "url": "https://github.com/CurtWal/Calendar",
+        "url": "https://curtwal.github.io/Calendar/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -31,6 +31,98 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Chat App",
+        "startDate": "2022",
+        "description": "A Random Chat App that lets you chat with groups of random people",
+        "images": [
+          "images/portfolio/chatapp/chatapp.png",
+          "images/portfolio/chatapp/chatmessage.png"
+        ],
+        "url": "https://mern-chat-app-project.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-react-original-wordmark",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb-plain-wordmark",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nodejs-plain-wordmark",
+            "name": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Carousel of Coders",
+        "startDate": "2022",
+        "description": "My first Group project. Card style images, that are animated, and the ability to create your own. ",
+        "images": [
+          "images/portfolio/carousel/c1.png",
+          "images/portfolio/carousel/c2.png"
+        ],
+        "url": "https://nunumarie3000.github.io/Mighty-Ducks/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Group ECommerce App",
+        "startDate": "2022",
+        "description": "A group project for a basic ecommerce application",
+        "images": [
+          "images/portfolio/ecommerce/Shop.png",
+          "images/portfolio/ecommerce/checkout.png"
+        ],
+        "url": "https://groupecommerce.azurewebsites.net/",
+        "technologies": [
+          {
+            "class": "devicon-csharp-line-wordmark",
+            "name": "CSharp"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-azure-plain-wordmark",
+            "name": "Azure"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "Dot.net"
           }
         ]
       },
@@ -59,15 +151,19 @@
         ]
       },
       {
-        "title": "Carousel of Coders",
+        "title": "Card Matching Game",
         "startDate": "2022",
-        "description": "Card style cards, that are animated, and the ability to create your own. ",
+        "description": "A Fun Memory Game with flippable cards",
         "images": [
-          "images/portfolio/carousel/c1.png",
-          "images/portfolio/carousel/c2.png"
+          "images/portfolio/memory/noflip.png",
+          "images/portfolio/memory/flip.png"
         ],
-        "url": "https://github.com/NunuMarie3000/Mighty-Ducks",
+        "url": "https://memory-game-pokemon-images.netlify.app/",
         "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
           {
             "class": "devicon-html5-plain",
             "name": "HTML"
@@ -77,13 +173,32 @@
             "name": "CSS"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-react-original-wordmark",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb-plain-wordmark",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nodejs-plain-wordmark",
+            "name": "Node.js"
           }
         ]
       }
     ],
     "experience": [
+      {
+        "company": "UPS",
+        "title": "Truck Unloader",
+        "years": "03.2016 - 03.2022",
+        "mainTech": [
+          "NA"
+        ],
+        "technologies": [
+          "Na"
+        ]
+      },
       {
         "company": "Code Crew",
         "title": "Student Entry Level Full Stack Developer",
@@ -95,7 +210,13 @@
           "Css",
           "React Js",
           "HTML",
-          "Bootstrap"
+          "Bootstrap",
+          "Node Js",
+          "CSharp",
+          "Dot Net",
+          "MongoDB",
+          "Azure",
+          "Unity"
         ]
       }
     ]

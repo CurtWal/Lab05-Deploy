@@ -42,6 +42,36 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
+        },
+        {
+          "name": "CSharp",
+          "class": "devicon-csharp-line",
+          "level": "85"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "85"
+        },
+        {
+          "name": "Azure",
+          "class": "devicon-azure-plain",
+          "level": "85"
+        },
+        {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "Dotnet",
+          "class": "devicon-dot-net-plain",
+          "level": "85"
+        },
+        {
+          "name": "Unity",
+          "class": "devicon-unity-original",
+          "level": "85"
         }
       ]
     }
