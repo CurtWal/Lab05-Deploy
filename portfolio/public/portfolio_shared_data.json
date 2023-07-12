@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Curtrick Walton",
-      "titles": [ "Young soon to be Entry level Full Stack Developer" ],
+      "titles": [ "Entry level Full Stack Developer" ],
       "social": [
         {
           "name": "github",
@@ -9,12 +9,17 @@
           "class": "fab fa-github"
         },
         {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/curtrick-walton-553b4925a",
+          "class": "fab fa-linkedin-in"
+        },
+        {
           "name": "facebook",
           "url": "https://www.facebook.com/curtrick.walton/",
           "class": "fab fa-facebook"
         }
       ],
-      "image": "myNewProfile.jpg"
+      "image": "Code School Headshots-13.jpg"
     },
     "skills": {
       "icons": [
@@ -55,7 +60,7 @@
         },
         {
           "name": "Azure",
-          "class": "devicon-azure-plain",
+          "class": "devicon-azure-plain-wordmark",
           "level": "85"
         },
         {
@@ -70,7 +75,12 @@
         },
         {
           "name": "Unity",
-          "class": "devicon-unity-original",
+          "class": "devicon-unity-original-wordmark",
+          "level": "85"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
           "level": "85"
         }
       ]

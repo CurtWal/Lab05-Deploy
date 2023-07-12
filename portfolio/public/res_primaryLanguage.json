@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Curtrick Walton. Im a young up and coming soon to be entry level full stack developer. I started this journey to try and find something that I would like to do in life. Thank you 💜",
+      "description": "👋 I'm Curtrick Walton. Im a entry level software developer. I started this journey to try and find something that I would like to do in life. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -127,18 +127,18 @@
         ]
       },
       {
-        "title": "Random Background Color Changer",
-        "startDate": "2022",
-        "description": "The ability to switch background colors by a click of a button",
+        "title": "C# Music/Video Player",
+        "startDate": "2023",
+        "description": "Do you have music/videos you would like to play",
         "images": [
-          "images/portfolio/randomBg/b1.png",
-          "images/portfolio/randomBg/b2.png"
+          "images/portfolio/music/Screenshot_20230208_121853.png",
+          "images/portfolio/music/Screenshot_20230208_122154.png"
         ],
-        "url": "https://github.com/CurtWal/Random-Background-color",
+        "url": "https://github.com/CurtWal/MusicPlayer",
         "technologies": [
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-csharp-line-wordmark",
+            "name": "CSharp"
           },
           {
             "class": "devicon-html5-plain",
@@ -155,7 +155,7 @@
         "startDate": "2022",
         "description": "A Fun Memory Game with flippable cards",
         "images": [
-          "images/portfolio/memory/noflip.png",
+          "images/portfolio/memory/noflips.png",
           "images/portfolio/memory/flip.png"
         ],
         "url": "https://memory-game-pokemon-images.netlify.app/",
@@ -202,14 +202,15 @@
       {
         "company": "Code Crew",
         "title": "Student Entry Level Full Stack Developer",
-        "years": "05.2022 - present",
+        "years": "05.2022 - 02.2023",
         "mainTech": [
-          "JavaScript"
+          "CodeCrew"
         ],
         "technologies": [
           "Css",
           "React Js",
           "HTML",
+          "JavaScript",
           "Bootstrap",
           "Node Js",
           "CSharp",

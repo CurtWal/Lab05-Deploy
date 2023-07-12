@@ -9,6 +9,8 @@ import azureIcon from "@iconify/icons-logos/azure";
 import mongoIcon from "@iconify/icons-logos/mongodb";
 import dotnetIcon from "@iconify/icons-logos/dotnet";
 import unityIcon from "@iconify/icons-logos/unity";
+import expressIcon from "@iconify/icons-logos/express";
+import csharpIcon from "@iconify/icons-logos/c-sharp";
 
 class About extends Component {
   render() {
@@ -33,6 +35,7 @@ class About extends Component {
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="250px"
+                    width="500px"
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
@@ -58,14 +61,22 @@ class About extends Component {
                   style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                 /><Icon
                 icon={mongoIcon}
-                style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
               />
                 <Icon
                 icon={azureIcon}
-                style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                style={{ fontSize: "300%", margin: "9% 5% 0 1%" }}
               />
                 <Icon
                 icon={unityIcon}
+                style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
+              />
+                <Icon
+                icon={expressIcon}
+                style={{ fontSize: "200%", margin: "9% 5% 0 5%" }}
+              />
+                <Icon
+                icon={csharpIcon}
                 style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
               />
                 </span>
